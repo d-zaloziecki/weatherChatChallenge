@@ -1,0 +1,23 @@
+.mypage{
+    margin-top:20px;
+}
+
+.weatherbox{
+    text-align: center;
+    border-radius: 7px;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.comment{
+    border-radius: 7px;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 5px 5px 2.5px #aaaaaa;
+}
+
+.deleteBtns {
+    width: 30px;
+    height: 30px;
+    float: right;
+}
